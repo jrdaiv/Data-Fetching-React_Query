@@ -1,0 +1,89 @@
+body{
+    background: url(./assets/pexels-philippedonn-1114690.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.create-post{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+.title{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: wheat;
+    border-radius: 5px;
+    text-align: center;
+
+}
+.submit-btn{
+    background-color: wheat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.fetch-btn{
+    background-color: wheat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.post-title{
+    color: wheat;
+    text-align: center;
+    text-shadow: 2px 2px 2px;
+    
+}
+.fetch-btn{
+    background-color: wheat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.fetch-title{
+    color: wheat;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.body-post{
+    color: wheat;
+    text-align: center;
+    border-radius: 5px;
+}
+.title-title{
+    color: wheat;
+    text-align: center;
+    text-decoration: underline;
+}
+.update-title{
+    color: wheat;
+    text-align: center;
+    text-decoration: underline;
+}
+.update-input{
+    text-align: center;
+    background-color: wheat;
+    border-radius: 5px;
+}
+.update-button{
+    background-color: wheat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.delete-btn{
+    background-color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
